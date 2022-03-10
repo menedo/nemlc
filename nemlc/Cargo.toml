@@ -1,0 +1,13 @@
+[package]
+name = "nemlc"
+version = "0.0.1"
+authors = ["inkhare <iapricot@foxmail.com>"]
+description = "The compiler for NEML in Rust."
+edition = "2021"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+keywords = ["NEML", "neno", "compiler"]
+
+[dependencies]
+regex = "1.5"
+poirot = { git = 'https://github.com/menedo/poirot.git', branch = 'main' }
