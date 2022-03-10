@@ -10,4 +10,4 @@ keywords = ["NEML", "neno", "compiler"]
 
 [dependencies]
 regex = "1.5"
-poirot = { git = 'https://github.com/menedo/poirot.git', branch = 'main' }
+poirot = { git = 'https://github.com/voidbootes/poirot.git', branch = 'main' }
